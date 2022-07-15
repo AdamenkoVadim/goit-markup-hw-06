@@ -1005,7 +1005,7 @@ address {
     line-height: 1.16;
     letter-spacing: 0.01em;
 
-    color: var(--primary-text-color)
+    color: var(--description-color)
 }
 
 .form-field textarea::placeholder {
@@ -1065,8 +1065,9 @@ textarea {
     align-items: center;
     margin-bottom: 30px;
 
+    font-size: 14px;
     line-height: 1.71;
-    color: var(--primary-text-color);
+    color: var(--description-color);
 }
 
 .policy-link {
